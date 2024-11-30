@@ -1,0 +1,56 @@
+{
+    "python": [
+        {
+            "title": "Python Documentation",
+            "url": "https://docs.python.org/3/",
+            "type": "documentation",
+            "level": "all"
+        },
+        {
+            "title": "Real Python Tutorials",
+            "url": "https://realpython.com",
+            "type": "tutorial",
+            "level": "intermediate"
+        }
+    ],
+    "java": [
+        {
+            "title": "Java Documentation",
+            "url": "https://docs.oracle.com/en/java/",
+            "type": "documentation",
+            "level": "all"
+        }
+    ],
+    "javascript": [
+        {
+            "title": "MDN Web Docs",
+            "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript",
+            "type": "documentation",
+            "level": "all"
+        }
+    ],
+    "sql": [
+        {
+            "title": "W3Schools SQL Tutorial",
+            "url": "https://www.w3schools.com/sql/",
+            "type": "tutorial",
+            "level": "beginner"
+        }
+    ],
+    "behavioral": [
+        {
+            "title": "STAR Method Guide",
+            "url": "https://www.indeed.com/career-advice/interviewing/how-to-use-the-star-interview-response-technique",
+            "type": "methodology",
+            "level": "all"
+        }
+    ],
+    "system_design": [
+        {
+            "title": "System Design Primer",
+            "url": "https://github.com/donnemartin/system-design-primer",
+            "type": "guide",
+            "level": "advanced"
+        }
+    ]
+}
