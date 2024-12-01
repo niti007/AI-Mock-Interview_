@@ -1,6 +1,5 @@
-# AI-Mock-Interview
-
 # AI Mock Interview Assistant
+
 
 The AI Mock Interview Assistant is a Python application that provides personalized mock interviews based on a user's resume, job description, and the selected type of interview (technical, behavioral, or competency-based). Utilizing natural language processing, it analyzes data to conduct mock interviews, followed by a summary that highlights strengths and areas for improvement in responses.
 
